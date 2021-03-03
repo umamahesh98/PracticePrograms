@@ -25,7 +25,7 @@ class c extends B{
 	{
 		c obj = new c();
 		
-		//System.out.println("The sum of numb
+		
 	}
 
 }
