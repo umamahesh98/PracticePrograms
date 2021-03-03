@@ -94,6 +94,7 @@ public class Batsman {
 		b1.setFours(43);
 		b1.setSixes(12);
 		b1.setHalfCenturies(2);
+		
 		System.out.println(b1.getBallsFaced());
 		System.out.println(b1.getCenturies());
 		System.out.println(b1.getFours());
