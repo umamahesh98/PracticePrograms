@@ -5,17 +5,17 @@ abstract class Animal {
 
 	 public void dog()
 	 {
-		 System.out.println("The dog says bow bow");
+		 System.out.println("You are in dog class");
 	 }
 }
 
 class Sounds extends Animal {
 	public void cat() {
-		System.out.println("The cat says meow meow ");
+		System.out.println("you are in cat class ");
 	}
 
 	public void dog() {
-		System.out.println("The dog says  bow");
+		System.out.println("you are in dog 2 class");
 	}
 }
 
